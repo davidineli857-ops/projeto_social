@@ -12,7 +12,7 @@
     
 }
 
-#tela {
+iframe#tela {
   position: relative;
   left: 23px;
   top: 80px;
@@ -37,8 +37,7 @@ section#redes-sociais {
 #redes-sociais img:hover {
     border: 2px solid rgba(253, 253, 253, 0.952);
     transform: translate(-4px,-4px);
-    box-shadow: 5px 5px 10px black;
-}
+    }
 * {
     margin: 0px;
     padding: 0px;
